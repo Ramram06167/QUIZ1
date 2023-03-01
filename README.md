@@ -1,5 +1,6 @@
 # QUIZ1
-
-Ramirez
-Exclamador
-Gucela
+snakes
+dark
+heights
+durian
+height
