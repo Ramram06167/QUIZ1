@@ -1,6 +1,14 @@
 # QUIZ1
-snakes
-dark
-heights
-durian
-height
+
+
+
+sports
+games
+computer
+foods
+movies
+planes
+travel
+cellphones
+tshirts
+pools
